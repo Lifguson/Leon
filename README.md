@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lifguson
-- 👀 I’m interested in front end web development
-- 🌱 I’m currently learning css and js
+- 👀 I’m a law graduate interested in front end software development
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: Twitter @lifguson1
 
 <!---
