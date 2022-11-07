@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lifguson
-- 👀 I’m interested in front end software development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning React
 - 📫 How to reach me: Twitter @lifguson1
 
 <!---
