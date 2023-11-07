@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lifguson
+- 👋 Hi, I’m Leon
 - 👀 I’m a Fullstack Software Developer
-- 📫 How to reach me: Twitter @lifguson1
+- 📫 How to reach me: Twitter @leondvlpr
 
 <!---
 Lifguson/Lifguson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
